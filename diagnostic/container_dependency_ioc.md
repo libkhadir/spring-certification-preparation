@@ -1,13 +1,6 @@
 # Container, Dependency and IOC
 ## Core Spring 5.0 Certification Exam Study Guide
 
-[<< Back to Table of Contents](README.md)
-
-:star: Star this project on GitHub — It helps!!
-
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/seanjgildea/CoreSpring5CertificationGuide/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ### What is a pattern? What is an anti-pattern? Is dependency injection a pattern?
 
 - A software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. Dependency injection is a programming technique that makes a class independent of its dependencies. An anti pattern is a common response to a recurring problem that is usually ineffective and risks being highly counterproductive
@@ -162,9 +155,6 @@
 
 ![jsr330](https://github.com/seanjgildea/CoreSpring5CertificationGuide/blob/master/img/jsr330.png)
 
-
-
-[<< Back to Table of Contents](README.md)
 
 
 
