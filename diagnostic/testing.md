@@ -1,8 +1,6 @@
 # Testing
 ## Core Spring 5.0 Certification Exam Study Guide
 
-[<< Back to Table of Contents](README.md)
-
 :star: Star this project on GitHub — It helps!!
 
 ### Do you use Spring in a unit test?
@@ -56,8 +54,6 @@
 
 - The search algorithm works up from the package that contains the test until it finds a class annotated with @SpringBootApplication or @SpringBootConfiguration.
 
-
-[<< Back to Table of Contents](README.md)
 
 
 
