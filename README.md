@@ -17,8 +17,8 @@ To pass the exam you can follow the desribed steps in the following link: [regis
 [Apress exercices repo](https://github.com/Apress/pivotal-certified-pro-spring-dev-exam-02)
 
 # Useful books
-- [Apress library](https://www.apress.com/fr)
-![image](https://user-images.githubusercontent.com/45130488/190497220-98a89fcf-93e1-4ae1-9759-2a7d07ea53aa.png)
+|[Apress library](https://www.apress.com/fr)|
+|![image](https://user-images.githubusercontent.com/45130488/190497220-98a89fcf-93e1-4ae1-9759-2a7d07ea53aa.png)|
 
 # Useful courses
 - [Spring Framework Guru](https://springframework.guru/)
