@@ -17,3 +17,4 @@ To pass the exam you can follow the desribed steps in the following link: [regis
 
 # Official documentation
 - [Spring.io](https://spring.io/)
+- [Spring.io docs](https://docs.spring.io/spring-framework/docs/current/reference/html/)
