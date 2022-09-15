@@ -1,12 +1,6 @@
 # Spring Boot
 ## Core Spring 5.0 Certification Exam Study Guide
 
-[<< Back to Table of Contents](README.md)
-
-:star: Star this project on GitHub — It helps!!
-
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/seanjgildea/CoreSpring5CertificationGuide/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ### What are the advantages of using Spring Boot?
 
@@ -117,4 +111,3 @@
 - Since logging is initialized before the ApplicationContext is created, it is not possible to control logging from @PropertySources in Spring @Configuration files. The only way to change the logging system or disable it entirely is via System properties.
 
 
-[<< Back to Table of Contents](README.md)
