@@ -1,13 +1,6 @@
 # Spring MVC
 ## Core Spring 5.0 Certification Exam Study Guide
 
-[<< Back to Table of Contents](README.md)
-
-:star: Star this project on GitHub — It helps!!
-
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/seanjgildea/CoreSpring5CertificationGuide/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ### MVC is an abbreviation for a design pattern. What does it stand for and what is the idea behind it?
 
 - MVC stands for Model-View-Controller. The idea is to separate these three concepts rather than mixing them – as it is very hard to work when you have a view mixed with a controller and you need to change some details of the view.
@@ -103,7 +96,5 @@ Yes, it is declared in the web.xml of your web application. The DispatcherServle
 
 - InternalResourceViewResolver: Convenient subclass of UrlBasedViewResolver that supports InternalResourceView (i.e. Servlets and JSPs) and subclasses such as JstlView.
 
-
-[<< Back to Table of Contents](README.md)
 
 
