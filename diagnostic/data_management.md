@@ -1,13 +1,6 @@
 # Data Management
 ## Core Spring 5.0 Certification Exam Study Guide
 
-[<< Back to Table of Contents](README.md)
-
-:star: Star this project on GitHub — It helps!!
-
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/seanjgildea/CoreSpring5CertificationGuide/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 
 ### What is the difference between checked and unchecked exceptions?
 
@@ -302,5 +295,3 @@ First of all, there's no code generation going on, which means: no CGLib, no byt
 - @Query("select p from Person u where p.name like %?1%")
 - List findAllByName(String name);
 
-
-[<< Back to Table of Contents](README.md)
