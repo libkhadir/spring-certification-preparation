@@ -1,8 +1,6 @@
 # Testing
 ## Core Spring 5.0 Certification Exam Study Guide
 
-:star: Star this project on GitHub — It helps!!
-
 ### Do you use Spring in a unit test?
 
 - You do not need to, no.
