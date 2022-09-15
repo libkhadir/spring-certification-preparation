@@ -9,6 +9,7 @@ To pass the exam you can follow the desribed steps in the following link: [regis
 
 # Useful courses
 - [Spring Framework Guru](https://springframework.guru/)
+- [Udemy Spring guru course](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
 
 # Official documentation
 - [Spring.io](https://spring.io/)
