@@ -1,13 +1,6 @@
 # Aspect Oriented Programming
 ## Core Spring 5.0 Certification Exam Study Guide
 
-[<< Back to Table of Contents](README.md)
-
-:star: Star this project on GitHub — It helps!!
-
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/seanjgildea/CoreSpring5CertificationGuide/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 
 ### What is the concept of AOP? Which problem does it solve? What is a cross cutting concern?
 
@@ -124,5 +117,3 @@ Aspect Oriented Programming (alias AOP) is a concept of separating cross-cutting
 
 - ProceedingJoinPoint is used to reference the method that is being advised with an @Around advice. Call the ProceedingJoinPoint’s proceed() method for the advised method to run.
 
-
-[<< Back to Table of Contents](README.md)
