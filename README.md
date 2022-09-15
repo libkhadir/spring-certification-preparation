@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/45130488/190498832-e081fa61-88f4-4c72-a8a9-9afbdf5fc476.png)
+
 # Spring pro certification preparation
 The spring pro certification validates your ability to understand the internal mecanism of spring core and how the framework can help you to develop in more faster and secure way.
 
