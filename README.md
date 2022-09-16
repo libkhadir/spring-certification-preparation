@@ -14,7 +14,7 @@ The spring pro certification validates your ability to understand the internal m
 To pass the exam you can follow the desribed steps in the following link: [register](https://www.vmware.com/learning/certification/spring-pro-develop-exam.html)
 
 # Practice exercices
-[Apress exercices repo](https://github.com/Apress/pivotal-certified-pro-spring-dev-exam-02)
+[Apress exercices repository](https://github.com/Apress/pivotal-certified-pro-spring-dev-exam-02)
 
 # Useful books
 |[Apress library](https://www.apress.com/fr)|
